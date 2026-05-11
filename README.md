@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/0SGjF8y/banner2.png" alt="Banner"></a></p>
+<p align="center"><img src="https://i.ibb.co/bcBDjTc/Git-Banner2.png" alt="Banner"></a></p>
 
 <h1 align="left">Hi there, I'm Pedro Parisi 👋</h1>
 
